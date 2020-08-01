@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Twitter URL](https://img.shields.io/twitter/url?label=%40sunitram&style=social&url=https%3A%2F%2Ftwitter.com%2Fsunitram)](https://twitter.com/sunitram)
+
 <!--
 **martinus/martinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
