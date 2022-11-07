@@ -1,3 +1,5 @@
+<a rel="me" href="https://social.linux.pizza/@martinus">🦣 Mastodon</a>
+
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40sunitram&style=social&url=https%3A%2F%2Ftwitter.com%2Fsunitram)](https://twitter.com/sunitram)
 
 <!--
